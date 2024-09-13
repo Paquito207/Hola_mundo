@@ -2,4 +2,4 @@
 repositorio de prueba 
 
 fghfghfghvgv gfcgfg fhgchcghvgjgvjvgh
-ajuste generacion de conflicto repositorio remote
+ajuste generacion de conflicto repositorio remotu
