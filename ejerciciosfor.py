@@ -1,3 +1,20 @@
+import time
+
+def ejercicio1 ():
+    palabra = str(input("ingresa tu edad"))
+    cantidad = int(input("ingrese la cantidad"))
+    for i in range(cantidad):
+        print("valor de la variable i: ", i+1)
+        time.sleep(2)
+        print(palabra)
+    return palabra
+ejercicio1 ()
+
+
+
+
+
+
 #solicita el año actual al usuario
 año_actual = int(input("Ingresa el año actual: "))
 #solicita el año de nacimiento al usuario
