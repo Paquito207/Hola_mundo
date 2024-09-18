@@ -1,5 +1,4 @@
-
- import time
+import time
 
 print("hola")
 #esta linea imprime el comentario hola
@@ -15,3 +14,18 @@ print(type(5.5))
 
 a=0
 print("pruebagitignore")
+
+print("----------------------------------------------------------------")
+bool=True
+print(bool)
+print(type(bool))
+
+numero = 5
+texto = "hola"
+suma = str(numero) + texto
+print(suma)
+
+bool1=True
+bool2=False
+suma2 = bool1 and bool2
+print(suma2)
