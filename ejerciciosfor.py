@@ -1,14 +1,14 @@
 import time
 
-#def ejercicio1 ():
-#    palabra = str(input("ingresa tu edad"))
-#    cantidad = int(input("ingrese la cantidad"))
-#    for i in range(cantidad):
-#        print("valor de la variable i: ", i+1)
-#        time.sleep(2)
-#        print(palabra)
-#    return palabra
-#ejercicio1 ()
+def ejercicio1 ():
+    palabra = str(input("ingresa tu edad"))
+    cantidad = int(input("ingrese la cantidad"))
+    for i in range(cantidad):
+        print("valor de la variable i: ", i+1)
+        time.sleep(2)
+        print(palabra)
+    return palabra
+ejercicio1 ()
 
 
 
@@ -132,11 +132,3 @@ for caracter in palabra:
 # Mostrar el resultado
 print(f"La palabra ó oración'{palabra}' tiene {contador} letras.")
 
-
-def contador_palabra()
-    palabra = input("ingrese la palabra")
-    contador = 0
-    for letra in palabra:
-        if letra.isalpha():
-            contador += 1
-contador_palabra()
